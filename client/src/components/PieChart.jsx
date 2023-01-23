@@ -16,7 +16,6 @@ const PieChart = () => {
     .catch(err => console.error(err));
     }, [])
     const petcares = petcarepets.map((pet) => pet.sum)
-    console.log(petcares)
 
     const [adoptpets, setAdoptPets] = useState([])
     useEffect(()=>{

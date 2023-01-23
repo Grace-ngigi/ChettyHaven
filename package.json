@@ -24,6 +24,6 @@
     "express-session": "^1.17.3",
     "mongodb": "^4.13.0",
     "mongoose": "^6.8.1",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^2.1.3"
   }
 }
